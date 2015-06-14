@@ -1,10 +1,9 @@
 /**
- *	folder:	HW07_091044059
- *	file:	hw07.cpp
+ *	file:	driver.cpp
  *	author:	Mustafa ALP
- *	no:		091044059
  *
- */#include <iostream>
+ */
+#include <iostream>
 #include "Word.h"
 #include "DocumentIndex.h"
 
