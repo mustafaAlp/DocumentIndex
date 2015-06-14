@@ -1,0 +1,663 @@
+
+	 INDEX
+
+
+
+A
+              a	:      1 4 5 9 20 21 22 23 33 34 35 36 49 68 69 72 80 88 89 90 92 93 94 97 99 100 101 103 104 109 122 123 128 133 139 140 141 157 164 178 179 181 184 196 198 
+           aaah	:    178 
+         ablaze	:     72 
+         aboard	:     16 
+          about	:    141 
+          above	:    104 
+      adjusting	:    143 
+        adjusts	:     94 
+          after	:    155 
+        against	:     10 21 186 
+         agents	:     15 
+            ago	:      1 
+          aided	:     96 
+            aim	:     45 68 
+            air	:     92 
+         alcove	:    141 196 
+       alderaan	:    198 
+          along	:     38 
+     ambassador	:    190 
+           amid	:    163 
+             an	:     13 14 30 36 78 83 96 103 128 165 
+            and	:     17 31 32 44 55 69 74 76 77 91 98 99 109 119 122 123 139 142 143 154 163 185 186 190 
+          anger	:    199 
+          angry	:     83 
+        another	:     38 50 
+          apart	:    189 
+        appears	:     98 
+    approaching	:    200 
+            are	:     32 56 107 137 150 157 167 172 
+          armed	:     33 
+        armored	:     13 70 120 
+           arms	:     77 97 110 
+         around	:     56 84 109 
+            art	:     36 
+          artoo	:     30 33 54 83 129 133 137 140 142 154 159 
+             as	:      4 5 30 38 54 83 94 144 164 183 196 199 
+    aspirations	:     90 
+       assister	:     81 
+             at	:     94 140 146 
+        attacks	:    139 
+      attention	:    139 
+           auto	:    103 
+           away	:      1 121 
+        awesome	:     20 116 
+
+
+
+B
+           back	:     23 
+       backdrop	:      4 
+          backs	:    121 
+          baggy	:     92 
+         barely	:     98 
+           base	:     10 
+       battered	:     32 95 
+         battle	:     12 83 
+       battling	:    148 
+             be	:     42 52 98 135 148 151 
+         beatup	:     97 
+      beautiful	:    141 
+        beeping	:     54 129 
+          beeps	:    159 
+         begins	:    110 184 
+         behind	:     75 
+          being	:     63 
+           belt	:    101 
+         better	:     80 
+     bewildered	:    133 
+          black	:    119 
+          blast	:     38 69 
+       blinding	:    117 
+       blockade	:     22 28 62 66 114 126 131 161 194 
+         bodies	:    163 
+          bolts	:     73 
+           both	:     32 
+       bouncing	:     32 
+            boy	:     90 111 
+          break	:    123 
+         breath	:    119 
+         bright	:     99 
+          bring	:    190 
+         broken	:    163 
+         bronze	:     36 154 
+            but	:     92 183 
+             by	:     15 23 96 119 164 174 
+
+
+
+C
+              c	:     31 
+            can	:     16 135 148 
+           card	:    128 
+        catches	:     99 
+        causing	:     25 
+         chases	:    155 
+        choking	:    185 
+         circle	:    109 
+          civil	:      9 
+          clank	:     55 
+       clanking	:    139 
+           claw	:     33 97 
+           come	:    107 
+      commander	:    189 
+      companion	:    145 
+       computer	:     34 144 167 
+       consular	:    179 181 
+      continues	:     54 
+       corridor	:     71 161 
+          could	:     50 
+       counters	:     83 
+          craft	:     26 62 
+         crawls	:      6 
+       creating	:     74 184 
+          cries	:    183 
+        crudely	:    102 
+       crushing	:    199 
+      custodian	:     16 
+
+
+
+D
+           dark	:    116 165 184 
+       darkness	:     21 
+          darth	:    118 163 
+         dashed	:    102 
+            day	:     86 
+           dead	:    186 
+         deadly	:     24 73 
+          death	:     13 88 167 
+        deathly	:    122 
+           deco	:     36 
+      dehousing	:     81 
+         dented	:    102 
+         desert	:     86 96 
+         design	:     37 
+        destroy	:     14 
+      destroyed	:     42 
+          detoo	:     30 137 
+            did	:     41 
+     diplomatic	:    179 
+      direction	:    150 
+        disgust	:    111 
+   disintegrate	:     26 
+       distance	:    135 148 
+           dock	:     64 
+           dome	:    128 
+           done	:    176 
+         doomed	:    134 
+           door	:     45 
+           down	:     41 154 
+          drawn	:     63 
+      dreamlike	:    143 
+          drums	:      5 
+           duck	:     74 
+         during	:     12 
+
+
+
+E
+         easily	:     62 
+           echo	:      5 
+        eclipse	:     21 
+       eighteen	:     91 
+electrobinoculars	:    100 
+     electronic	:     49 159 
+        emerges	:     20 
+        emperor	:    118 
+         empire	:     11 
+            end	:    140 
+         enough	:     14 
+         entire	:     14 72 
+      equipment	:     55 
+         escape	:     52 
+     eventually	:    183 
+          every	:    110 
+       everyone	:    121 
+           evil	:     10 163 
+    exasperated	:    111 
+      explosion	:     30 78 
+     explosions	:     74 
+       exterior	:     60 86 
+            eye	:     34 99 
+           eyes	:    198 
+
+
+
+F
+           face	:     33 118 144 
+          faces	:     77 
+       familiar	:    139 
+            far	:      1 
+           farm	:     90 111 
+        fascist	:    120 
+           fear	:    198 
+       fearsome	:     70 
+           feet	:    103 174 
+            few	:     72 101 103 
+          field	:    104 
+         figure	:     89 
+         filled	:     71 141 
+            fin	:     26 
+       finishes	:    143 
+         firing	:     22 
+          first	:     10 
+          floor	:     96 
+        flowing	:    119 
+           foes	:    164 
+         follow	:    105 
+           foot	:    116 
+            for	:      4 42 52 101 104 203 
+          found	:    189 
+        freedom	:     17 
+       frenzied	:    124 
+         friend	:    154 
+           from	:      9 20 22 25 88 100 121 
+          front	:    142 
+    functioning	:     98 
+
+
+
+G
+       galactic	:     10 
+         galaxy	:      1 17 
+            get	:    107 
+          giant	:     24 64 
+           girl	:    141 196 
+           give	:     92 
+          gives	:    199 
+       gleaming	:     36 
+        glowing	:     21 
+           goes	:    185 
+          going	:    150 
+          grabs	:    100 164 
+      grotesque	:    119 
+         ground	:    104 
+           grow	:    200 
+       gruesome	:    185 
+
+
+
+H
+           hair	:     91 
+           half	:     81 143 
+        hallway	:    114 133 140 
+           hand	:     35 118 128 
+        hapless	:     84 
+            has	:     36 62 
+           have	:     10 80 146 176 
+             he	:     35 94 96 99 101 104 140 164 
+        heading	:    150 
+           hear	:     41 
+          heard	:     56 135 148 
+           heat	:     89 
+        heavens	:      5 102 
+          heavy	:     55 
+            her	:     16 21 190 198 201 
+         heroic	:     90 
+         hidden	:     10 143 
+            him	:     92 94 105 155 
+            his	:     33 91 100 102 110 111 116 118 119 145 154 164 174 187 
+            hit	:     75 
+           hits	:     78 
+        holding	:     76 
+           hole	:     69 
+           home	:     15 
+        horizon	:     88 
+        huddles	:    196 
+           huge	:     74 89 
+           hull	:     56 
+            hum	:    112 
+          human	:     35 
+       hundreds	:     24 
+          hurry	:    107 
+
+
+
+I
+              i	:     80 190 
+             if	:    181 
+       imperial	:     24 25 62 64 121 165 167 
+       imposing	:    122 
+             in	:      1 45 60 69 72 73 99 107 109 111 123 128 133 134 135 140 142 143 148 150 167 170 196 198 
+       infinity	:      6 
+  instinctively	:    100 121 
+    intercepted	:    178 
+       interior	:     28 66 114 126 131 161 194 
+           into	:      6 63 71 111 117 128 151 192 
+             is	:      9 23 33 35 42 63 72 96 117 118 133 178 181 197 
+             it	:      9 23 
+
+
+
+J
+          jerky	:     98 
+          joins	:    145 
+          joint	:    110 
+          jumps	:    111 
+
+
+
+K
+         kessel	:    151 
+          known	:     80 
+          knows	:    151 
+
+
+
+L
+            lad	:     92 
+    landspeeder	:    103 112 
+          large	:     95 
+     laserbolts	:     24 75 
+      laserfire	:     73 
+         lasers	:     22 
+        latches	:     55 
+        leaving	:    112 
+           leia	:     15 197 
+          lifts	:    174 
+          light	:     94 117 
+         lights	:     34 
+           like	:     36 96 103 
+           limp	:    185 
+         little	:     49 97 140 144 
+        lockers	:     75 
+          logic	:     80 
+           lone	:     89 
+           long	:      1 
+          looks	:     90 
+           lord	:    116 165 184 
+           loud	:     55 
+         louder	:    200 
+        lovable	:     92 
+         lovely	:    196 
+           luke	:     90 107 110 
+
+
+
+M
+          madly	:    112 
+       magnetic	:    104 
+           main	:      4 25 28 41 45 69 114 117 167 
+           make	:     31 70 
+          makes	:     49 116 129 
+         making	:     54 
+        managed	:     12 
+           mask	:    119 
+           mass	:     33 
+             me	:    190 
+         member	:    198 
+       metallic	:     36 55 
+           mine	:    151 
+         minute	:    157 
+        minutes	:     72 
+        mission	:    179 
+       moisture	:     95 
+        moments	:    101 
+          moons	:     21 
+        morning	:     99 
+        motions	:     98 104 
+         mounts	:     54 
+          moves	:     98 
+         moving	:     56 
+           much	:     91 96 
+          muted	:    199 
+
+
+
+N
+           near	:     78 
+           neck	:    164 169 
+        nervous	:     68 
+           next	:    120 
+             no	:     52 178 
+            not	:    167 
+        nowhere	:    134 
+
+
+
+O
+       obscured	:    118 
+             of	:      4 9 16 20 23 24 26 33 35 36 49 55 56 64 70 80 89 92 95 100 110 116 117 118 120 123 134 140 142 151 164 169 198 199 200 
+            off	:    174 
+        officer	:    164 165 167 169 178 
+            oil	:     96 
+            old	:     32 142 
+             on	:     34 89 94 104 144 179 
+            one	:    200 
+           only	:     50 
+        opening	:    128 
+          opens	:     69 
+             or	:    151 
+         organa	:    198 
+          other	:     35 
+            out	:     95 110 120 142 183 
+        outside	:     56 
+      overtaken	:     62 
+
+
+
+P
+           pair	:    100 
+          panic	:    124 
+     passageway	:     28 32 45 69 72 117 
+           past	:     44 154 
+       patterns	:     73 
+         people	:     17 
+         period	:      9 
+           pipe	:     96 
+        pitiful	:    134 
+          place	:    142 
+         planet	:     14 20 
+          plans	:     12 16 167 189 
+      positions	:     44 
+           pour	:    110 
+          power	:     14 
+       princess	:     15 52 197 
+          prize	:     93 
+    proportions	:     35 
+         pursed	:     23 
+        pursued	:     15 
+           puts	:    128 
+
+
+
+Q
+          quiet	:    122 
+
+
+
+R
+          races	:     15 23 154 
+          radar	:     34 
+          rages	:     83 
+         random	:     73 
+        reactor	:     41 
+          rebel	:      9 12 22 26 28 44 62 63 66 68 75 114 123 126 131 134 161 164 169 174 178 183 194 
+       rebuttal	:     83 
+        refuses	:    183 
+       repaired	:    102 
+       responds	:    159 
+        restore	:     17 
+       ricochet	:     73 
+          right	:    118 
+          robes	:    119 
+          robot	:     35 50 97 105 109 112 145 
+         robots	:     30 32 44 78 84 
+          rocks	:     30 
+         rollup	:      5 
+            run	:    123 
+         runner	:     22 28 63 66 114 126 131 161 194 
+           rush	:     44 
+         rushes	:    165 
+
+
+
+S
+           save	:     16 
+        scatter	:     74 
+         scoots	:    109 154 
+          score	:     70 
+         scream	:     55 76 
+        screams	:    134 
+         scurry	:    192 
+            sea	:      4 
+         search	:    197 
+         secret	:     12 
+            see	:     31 
+         senate	:    198 
+           sent	:    151 
+         series	:     49 
+         serves	:      4 
+            set	:    203 
+         settle	:     89 
+          seven	:    116 
+        several	:     75 94 123 
+         shaggy	:     91 
+         shakes	:     38 
+        shaking	:     32 
+      shattered	:     76 
+            she	:    143 197 203 
+           ship	:     23 30 56 63 179 181 189 197 
+          short	:     33 109 
+         should	:     80 
+           shut	:     41 
+          sight	:    134 
+         silver	:     22 
+         simple	:     92 
+       sinister	:     15 
+           sith	:    116 
+            six	:     97 
+        sixteen	:    141 
+          sized	:     81 
+            sky	:     99 
+      skywalker	:     90 
+        slender	:     35 
+         slowly	:      6 199 
+          small	:    196 
+        smaller	:     63 
+        smashed	:    151 
+          smile	:     93 
+          smoke	:     71 76 110 141 143 
+     smoldering	:    112 
+       snapping	:    185 
+          solar	:     25 
+        soldier	:    185 186 
+       soldiers	:     75 135 
+      something	:    144 
+       somewhat	:    133 
+          sound	:    139 
+         sounds	:     49 54 129 199 
+          space	:     13 23 60 
+     spacecraft	:     22 60 
+     spaceships	:      9 
+    spacesuited	:     70 
+        sparkle	:     99 
+          speak	:    183 
+          spice	:    151 
+          spies	:     12 
+          spots	:    140 201 
+        squeeze	:    184 
+       squeezes	:    169 
+        stagger	:     76 
+         stands	:    101 120 133 142 163 
+           star	:     13 167 
+  stardestroyer	:     24 25 
+          stars	:      4 
+       starship	:     16 64 
+        station	:     13 
+          steal	:     12 
+         sticks	:     95 
+         stolen	:     16 
+          stops	:    109 
+        storage	:     75 
+  stormtroopers	:     70 74 121 148 192 197 200 
+         streak	:     25 
+      stretches	:     88 
+       striking	:      9 
+       struggle	:     31 38 
+      struggles	:    169 
+       studying	:    101 
+     subhallway	:    155 194 
+    subhallways	:    192 
+       suddenly	:     68 
+          suits	:    120 
+           suns	:     89 
+           sure	:     42 
+        surface	:     36 
+        surreal	:    142 
+    surrounding	:     34 
+         sweeps	:    122 
+
+
+
+T
+           take	:     44 
+           tall	:     35 116 
+       tatooine	:     20 86 
+           tear	:    189 
+        tension	:     54 
+           than	:     80 91 
+           that	:     16 49 103 
+            the	:      4 5 10 12 13 15 16 17 20 21 23 25 26 30 31 34 41 44 45 49 52 55 56 62 63 64 68 69 71 72 73 76 78 80 83 84 88 92 95 97 99 101 104 109 111 112 116 117 118 120 122 123 134 135 140 143 144 148 151 154 163 164 165 167 169 174 181 183 184 185 186 190 192 196 197 198 199 200 
+          their	:     10 31 38 45 68 70 
+           them	:     38 
+           then	:    102 144 
+          there	:    203 
+thermocapsulary	:     81 
+           they	:     38 45 
+           this	:     42 52 117 150 178 181 189 
+          those	:    172 176 189 
+       threepio	:     31 34 41 47 52 58 80 133 137 146 150 155 157 
+         throat	:    174 184 
+        through	:      5 23 31 76 122 197 
+         throws	:    110 
+          tight	:    109 
+           time	:      1 52 
+           tiny	:     21 104 
+          title	:      5 
+             to	:     12 14 17 26 31 80 88 98 105 110 112 120 150 151 165 183 184 186 199 
+         tosses	:    186 
+          total	:     20 
+         toward	:     45 102 
+     transfixed	:    101 
+  transmissions	:    172 178 
+      transport	:    103 
+        travels	:    103 
+          tread	:     97 
+     tremendous	:     69 89 
+         tripod	:     33 
+        trooper	:    203 
+       troopers	:     44 68 200 
+         troops	:    123 187 
+          trust	:     80 
+          tunic	:     92 
+          turns	:    186 
+           twin	:     89 
+        twisted	:    163 
+            two	:     21 30 84 89 
+
+
+
+U
+       ultimate	:     13 
+      underside	:     64 
+     understand	:     50 
+           unit	:     49 
+          until	:    185 189 
+             up	:     44 69 111 165 
+        utility	:    100 
+
+
+
+V
+          vader	:    118 163 169 172 174 176 181 186 189 
+           vain	:    170 
+         valves	:     94 96 
+      vaporator	:     95 
+           vast	:      4 
+        victory	:     10 
+
+
+
+W
+           wait	:    157 
+        waiting	:    107 
+           wall	:    186 
+           want	:    190 
+            war	:      5 9 
+        warrior	:    122 
+      wasteland	:     86 88 
+        watches	:    144 
+            way	:     31 39 71 117 199 
+             we	:    150 178 
+         weapon	:     13 
+        weapons	:     45 68 
+           were	:    179 181 
+           what	:    107 150 176 
+          where	:    137 146 157 172 
+          which	:     95 119 
+          whips	:     94 
+          white	:     88 120 
+            who	:     76 90 151 169 
+           wild	:     73 
+           wind	:     94 
+        winning	:     93 
+           with	:     14 72 83 90 92 96 97 98 107 159 176 
+            won	:     10 
+        wounded	:    164 
+
+
+
+Y
+          years	:     91 142 
+         yellow	:     20 
+            you	:     41 107 146 157 172 176 
+          young	:    111 141 196 
+        younger	:     91 

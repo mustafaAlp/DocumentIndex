@@ -1,0 +1,3 @@
+
+all:
+	g++ hw06.cpp Cell.cpp GameOfLife.cpp -o hw06
